@@ -10,3 +10,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ### You can reach me via...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-tobens/)
+-----------
+<p align="center">
+  <img src="https://github.com/willtobens/willtobens/blob/main/lofi.gif" alt="Lofi Code" width="300" height="300">
+</p>
