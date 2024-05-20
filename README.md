@@ -1,6 +1,6 @@
 ### Hello! My name is Will and I'm a software developer passionate about computers, music, and environmental efforts.
 
-- I’m currently working on my senior project, [GE's Dictionary of People and Places](https://github.com/GeorgeEliotArchive/Dictionary-of-GE-s-People-and-Places)
+- I recently finished my senior project, [GE's Dictionary of People and Places](https://github.com/GeorgeEliotArchive/Dictionary-of-GE-s-People-and-Places). You can view it on the George Eliot Archive website [here](https://georgeeliotarchive.org/dictionary).
 - In the near future, I want to create a Proof of Concept music playlist creator based on roadtrip plans
 ### My skills include...
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
